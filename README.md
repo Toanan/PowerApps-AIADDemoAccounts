@@ -8,4 +8,5 @@ The solution needs an excel file with the following columns :
 Compte (Demonstration account email)
 Utilisation (check for "Demo" values)
 Comment (Used to store the asigned attendee email)
+
 ![image](https://user-images.githubusercontent.com/32102379/112482239-1f8f2980-8d78-11eb-8ecb-4e9baf8fba99.png)
